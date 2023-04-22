@@ -1,6 +1,6 @@
 notebook
 ipywidgets
 tqdm
-pyhton-dotenv
+python-dotenv
 aiogram
 openai
